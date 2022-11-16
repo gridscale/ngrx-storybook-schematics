@@ -1,5 +1,5 @@
 {
-  "name": "@ngx-storybook/schematics",
+  "name": "@gridscale/ngx-storybook-schematics",
   "version": "1.0.6",
   "description": "Schematics for Angular & Storybook workshops",
   "scripts": {
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ngx-storybook/schematics"
+    "url": "https://github.com/gridscale/ngrx-storybook-schematics"
   },
   "author": "",
   "license": "BSD-3-Clause",
